@@ -6,8 +6,7 @@
     "url": "https://github.com/arielorn/licensedemo"
   },
   "dependencies": {
-    "ejs": "^3.1.5",
-    "stylint": "^2.0.0"
+    "ejs": "^3.1.5"
   },
   "devDependencies": {}
 }
